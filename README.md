@@ -44,3 +44,6 @@ python snake.py
 - HUD showing current score and session best
 - Pause/resume support
 - Game over and start overlays
+
+
+Made By  ALLEN STIVANSON CHRISTIAN || https://www.linkedin.com/in/allen-christian-708545409/  || Patent Holder
